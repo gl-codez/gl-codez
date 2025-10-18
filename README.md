@@ -26,7 +26,7 @@ My goal is to deliver interfaces that not only look good, but **perform exceptio
 [![Frontend](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwindcss)](https://skillicons.dev)
 
 **Backend & Database:**  
-[![Backend](https://skillicons.dev/icons?i=supabase,firebase,nodejs,express)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=supabase,firebase)](https://skillicons.dev)
 
 **Version Control & Collaboration:**  
 [![Version Control](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
