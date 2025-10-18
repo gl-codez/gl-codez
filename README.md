@@ -48,7 +48,7 @@ Built with **Next.js**, **Supabase**, and **Tailwind CSS** — completely **free
 
 ---
 
-### 📝 [IMDb Clone](imdb-eight-iota.vercel.app)
+### 📝 [IMDb Clone](https://imdb-eight-iota.vercel.app/)
 A sleek movie discovery web app inspired by IMDb.  
 Powered by **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
