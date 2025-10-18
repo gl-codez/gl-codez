@@ -3,28 +3,20 @@
 
 I'm a **passionate Software Developer** who loves crafting clean, scalable, and maintainable code.  
 I specialize in building **modern, performant web applications** with an emphasis on **user experience**, **usability**, **accessibility**, and **modern web standards**. 
-Every line I write aims to make the web more accessible, beautiful, and meaningful.
+I approach development with **clarity, speed, and long-term scalability** in mind.  
+My goal is to deliver interfaces that not only look good, but **perform exceptionally** leading to higher conversion, engagement, and user satisfaction.  
 
 ---
 
 ## 💡 About Me
 
  💻 Focused on **Frontend Engineering** and **UI Architecture**  
- 🧠 Turning complex ideas into **elegant, performant interfaces**  
+ 🧠 Turning complex ideas into **impactful, user-centered experiences, performant interfaces**  
  🤝 Believer in **team collaboration**, **open-source**, and **continuous learning**  
  🚀 Currently exploring **AI-powered frontends** and **serverless scalability**  
- 🎯 Dedicated to crafting **impactful, user-centered experiences**  
+ 🎯 Passionate about delivering solutions that **increase efficiency and drive business outcomes**  
 
-> *"I believe good design and clean code go hand-in-hand — one empowers the other."*
-
----
-
-## 🧠 Tech Philosophy
-
-> “Code is like art — the cleaner it is, the more beautiful it becomes.”  
-
-I approach development with **clarity, performance, and scalability** in mind.  
-My goal is to build interfaces that **feel natural**, **perform fast**, and **age gracefully**.  
+> *"Clean code builds trust. Scalable systems build growth."*
 
 ---
 
@@ -52,9 +44,9 @@ My goal is to build interfaces that **feel natural**, **perform fast**, and **ag
 
 ---
 
-## 💼 Featured Projects
+## Projects
 
-### 🧬 [Tweel](https://tweel.vercel.app/)
+### 💬 [Tweel](https://tweel.vercel.app/)
 **Tweel is an application**,  designed for simplicity and privacy where users can share posts, follow others, like content, and engage in real-time conversations.  
 Built with **Next.js**, **Supabase**, and **Tailwind CSS** — completely **free and open-source**.
 
@@ -70,7 +62,7 @@ Powered by **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <a href="https://github.com/greatL9">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=greatL9&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -82,9 +74,9 @@ Powered by **Next.js**, **TypeScript**, and **Tailwind CSS**.
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.greatlucky.com/"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/greatl9"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/greatl9"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <!-- <a href="https://www.greatlucky.com/"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white"/></a> -->
+  <a href="https://www.linkedin.com/in/great-lucky-499a84240/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/_itsgreat?s=21"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
   <a href="mailto:lgreat098@@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -94,8 +86,9 @@ Powered by **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
 I’m always open to:  
  🌍 Freelance & open-source collaborations  
- 💬 Technical discussions on modern frontend architecture  
- 🚀 Contributing to impactful projects  
+ ✨ Contributing to impactful projects 
+ 💬 Building performance-driven products that scale and deliver results  
+ 🚀 Partnering with teams looking to **increase conversions, productivity, and user satisfaction**
 
 📩 **Reach out anytime:** [lgreat098@@gmail.com](mailto:greatluckyl9@gmail.com)  
 
