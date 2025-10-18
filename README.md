@@ -3,7 +3,7 @@
 
 I'm a **passionate Software Developer** who loves crafting clean, scalable, and maintainable code.  
 I specialize in building **modern, performant web applications** with an emphasis on **user experience**, **usability**, **accessibility**, and **modern web standards**. 
-I approach development with **clarity, speed, and long-term scalability** in mind.  
+I approach development with **clarity, speed, and long term scalability** in mind.  
 My goal is to deliver interfaces that not only look good, but **perform exceptionally** leading to higher conversion, engagement, and user satisfaction.  
 
 ---
@@ -11,9 +11,9 @@ My goal is to deliver interfaces that not only look good, but **perform exceptio
 ## 💡 About Me
 
  💻 Focused on **Frontend Engineering** and **UI Architecture**  
- 🧠 Turning complex ideas into **impactful, user-centered experiences, performant interfaces**  
- 🤝 Believer in **team collaboration**, **open-source**, and **continuous learning**  
- 🚀 Currently exploring **AI-powered frontends** and **serverless scalability**  
+ 🧠 Turning complex ideas into **impactful, user centered experiences, performant interfaces**  
+ 🤝 Believer in **team collaboration**, **open source**, and **continuous learning**  
+ 🚀 Currently exploring **AI powered frontends** and **serverless scalability**  
  🎯 Passionate about delivering solutions that **increase efficiency and drive business outcomes**  
 
 > *"Clean code builds trust. Scalable systems build growth."*
@@ -47,8 +47,8 @@ My goal is to deliver interfaces that not only look good, but **perform exceptio
 ## Projects
 
 ### 💬 [Tweel](https://tweel.vercel.app/)
-**Tweel is an application**,  designed for simplicity and privacy where users can share posts, follow others, like content, and engage in real-time conversations.  
-Built with **Next.js**, **Supabase**, and **Tailwind CSS** — completely **free and open-source**.
+**Tweel is an application**,  designed for simplicity and privacy where users can share posts, follow others, like content, and engage in real time conversations.  
+Built with **Next.js**, **Supabase**, and **Tailwind CSS** completely **free and open source**.
 
 [![Tweel Repo](https://img.shields.io/badge/-🧬%20View%20Project-000?style=flat&logo=github)](https://github.com/greatL9/Tweel)
 
@@ -85,9 +85,9 @@ Powered by **Next.js**, **TypeScript**, and **Tailwind CSS**.
 ## 🤝 Let’s Collaborate
 
 I’m always open to:  
- 🌍 Freelance & open-source collaborations  
+ 🌍 Freelance & open source collaborations  
  ✨ Contributing to impactful projects 
- 💬 Building performance-driven products that scale and deliver results  
+ 💬 Building performance driven products that scale and deliver results  
  🚀 Partnering with teams looking to **increase conversions, productivity, and user satisfaction**
 
 📩 **Reach out anytime:** [lgreat098@@gmail.com](mailto:greatluckyl9@gmail.com)  
