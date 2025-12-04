@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Great Lucky  
-### 🚀 Software Developer
+### 🚀 Software Engineer
 
-I'm a passionate Software Developer who loves crafting clean, scalable, and maintainable code.
+I'm a passionate Software Engineer who loves crafting clean, scalable, and maintainable code.
 I specialize in building modern, high-performance web applications with a strong focus on user experience, usability, accessibility, and modern web standards.
 I approach development with clarity, efficiency, and long-term scalability in mind.
 My goal is to deliver interfaces that not only look great, but also perform exceptionally well, leading to better engagement, higher conversions, and overall user satisfaction.
